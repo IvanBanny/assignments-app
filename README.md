@@ -2,6 +2,5 @@
 
 Written using Electron for fun and convenience
 
-1. Used libraries:
-     - jquery (js)
-     - jquery-ui (js)
+Used libraries:
+  - jquery (js)
